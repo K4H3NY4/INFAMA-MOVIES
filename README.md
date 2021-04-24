@@ -3,8 +3,8 @@
 Upload the php files to a server
 Upload the sql file to database
 
-/index.php file will show all the flights that are available.
-/add-flight.php will allow you to add flight details from, to and duration.
+/index.php file will show all the flights that are available.<br>
+/add-flight.php will allow you to add flight details from, to and duration.<br>
 /add-movie.php will allow you to add movies to the system.
 
 
