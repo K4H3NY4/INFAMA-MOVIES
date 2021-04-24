@@ -8,5 +8,5 @@ Upload the sql file to database
 /add-movie.php will allow you to add movies to the system.
 
 
-you can also view the project on this link
+you can also view the project on this link<br>
 http://infama-movie.pacisvorgel.co.ke/
